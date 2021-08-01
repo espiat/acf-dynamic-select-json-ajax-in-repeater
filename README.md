@@ -10,3 +10,5 @@ Orders -> repeater field for products
 
 When selecting a product the prices automatically taken from the Product CPT to fill the price field in the repeater row.
 
+Template from:
+https://github.com/Hube2/acf-dynamic-ajax-select-example
