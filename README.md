@@ -8,7 +8,7 @@ I think somebody needs this example for ajax autocomplete in your own project as
 **Working with ACF > 5.7**
 
 Like WooCommerce:
-Orders -> repeater field for products
+Order -> has repeater field for products
 
 When selecting a product the prices automatically taken from the Product CPT to fill the price field in the repeater row.
 
