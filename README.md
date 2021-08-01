@@ -18,4 +18,4 @@ https://github.com/Hube2/acf-dynamic-ajax-select-example
 Files !important -> only the functions for the example:  
 class-gastrobbq-orders-cpt.php -> CPT Orders - ACF with repeater field for products  
 class-gastrobbq-products-cpt.php -> CPT Products - loads the query for getting the single product details  
-gastrobbq-admin-change-order-product.js -> js file to load the json data  
+gastrobbq-admin-change-order-product.js -> js file to load the json data - has some console.log to see where your code stops ;-)     
