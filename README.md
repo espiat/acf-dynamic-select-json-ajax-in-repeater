@@ -15,7 +15,7 @@ When selecting a product the prices automatically taken from the Product CPT to 
 Template from:
 https://github.com/Hube2/acf-dynamic-ajax-select-example
 
-Files !important -> only the functions for the example:
-class-gastrobbq-orders-cpt.php -> CPT Orders - ACF with repeater field for products
-class-gastrobbq-products-cpt.php -> CPT Products - loads the query for getting the single product details
-gastrobbq-admin-change-order-product.js -> js file to load the json data
+Files !important -> only the functions for the example:  
+class-gastrobbq-orders-cpt.php -> CPT Orders - ACF with repeater field for products  
+class-gastrobbq-products-cpt.php -> CPT Products - loads the query for getting the single product details  
+gastrobbq-admin-change-order-product.js -> js file to load the json data  
